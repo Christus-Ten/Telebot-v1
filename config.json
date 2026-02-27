@@ -1,7 +1,7 @@
 {
-  "BOT_TOKEN": "7776952501:AAFKshVxUkb6vy0cfOkIPxJjR4XHO9YrLdI",
-  "ADMIN_IDS": ["5929504859"],
-  "ADMIN_NAME": "XNIL",
+  "BOT_TOKEN": "8685645915:AAF2t2en9eXi2IMcmk4Q7XprEdwJm5eXvYs",
+  "ADMIN_IDS": ["8294554523"],
+  "ADMIN_NAME": "tkt",
   "prefix": "/",
   "MONGO_URI": "mongodb+srv://xnil6x143:HaogAjelhhZehn5i@cluster0.htr4b.mongodb.net/xnil?retryWrites=true&w=majority&appName=Cluster0",
   "DB_NAME": "xnil",
